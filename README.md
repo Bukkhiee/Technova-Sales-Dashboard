@@ -71,7 +71,7 @@ Visualizations
 ---
 Key Insights
 
-- East region recorded the highest sales.
+- North region recorded the highest sales.
 - South region recorded the lowest sales.
 - April had the highest monthly sales.
 - February recorded the lowest monthly sales.
