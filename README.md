@@ -4,6 +4,9 @@ TECHNOVA SALES & EMPLOYEE PERFORMANCE DASHBOARD
  Overview
 
 This project is Power BI dashboard developed to analyze Technova's sales and employee performance. The dashboard provides business insights into regional sales, product performance, employee performance, and monthly sales trends to support data-driven decision-making.
+## Dashboard Preview
+
+![Dashboard](IMG_2278.jpeg)
 
 ---
 
